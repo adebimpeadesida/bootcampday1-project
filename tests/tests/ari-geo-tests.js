@@ -2,7 +2,7 @@
   'use strict';
   var chai = require('chai');
   var expect = chai.expect;
-  var aritGeo = require('../app/aritGeolib.js');
+  var aritGeo = require('../app/ari-geo-lib.js');
 
   describe("Determine the sequence of an array of numbers: ", function() {
 
