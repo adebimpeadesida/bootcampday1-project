@@ -1,6 +1,6 @@
 var chai = require('chai');
   var expect = chai.expect;
-  var fizzBuzz = require('../app/fizzbuzzlib.js');
+  var fizzBuzz = require('../app/fizzbuzz.js');
 describe("Fizz Buzz tests ", function() {
 
   it("should return `Fizz` for number divisible by 3", function() {
