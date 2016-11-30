@@ -2,7 +2,7 @@
   'use strict';
   var chai = require('chai');
   var expect = chai.expect;
-  var findMinMax = require('../app/minmaxlib.js');
+  var findMinMax = require('../app/minmax-lib.js');
 
   describe('Min-Max Numbers in a List: ', function () {
 
